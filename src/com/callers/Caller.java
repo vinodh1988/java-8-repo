@@ -14,9 +14,9 @@ public class Caller {
 		}
 	   
 	}
-	
+	//Approach 1 
 	ResourceProvider.provideResource(new A());
-	
+	//Approach 2
 	ResourceProvider.provideResource(new CallBack() {
 		@Override
 		public void logic(String n) {
@@ -24,7 +24,7 @@ public class Caller {
 			System.out.println("Received here Too "+n);
 		}
 	});
-	
+	//Approach using Lambda
 	ResourceProvider.provideResource((n)->{
 		System.out.println("Received by lambda "+n);
 	});

@@ -8,7 +8,7 @@ public interface CallBack {
 
    Lambda Expressions is possible for only functional interfaces
    
-  Interfaces with only or exactly one unimplemented methods is as
+  Interfaces with only or exactly one unimplemented method is as
   functional interface 
 
 */
