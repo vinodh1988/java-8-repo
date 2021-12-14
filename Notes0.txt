@@ -1,0 +1,20 @@
+
+Object oriented Approach
+
+  Functional and Non blocking Approach?
+  
+  Java- Pure Object oriented
+        not a functional language
+		blocking and synchronous in nature
+		
+		Making java -- Asynchronous and Functional?
+		
+		Callback ?????
+  
+  Javascript
+  
+            Not pure object oriented
+			Functional Programming languages
+			Nonblocking and asynchronous 
+			
+	Event loop--> callback

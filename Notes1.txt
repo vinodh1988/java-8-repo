@@ -1,0 +1,13 @@
+
+
+1. Functional interface
+
+   how to write lambda [how it servers as alternative for anonymous class]
+   
+2.  Static methods  in interface
+
+3. Despite having static methods still an interface with one
+abstract method is functional interface
+
+4. by using interface reference you cannot static method it can be called
+only by using interface name

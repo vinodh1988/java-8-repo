@@ -1,0 +1,9 @@
+
+
+lambda Expression advantage over anonymous class
+
+  1. you dont need used new keyword followed by inteface name like new Sample()
+  2. you dont need to specify method name signature
+  3. you dont need to specify datatypes parameters
+  
+  all three things would be automatically inferred
