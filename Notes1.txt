@@ -11,3 +11,6 @@ abstract method is functional interface
 
 4. by using interface reference you cannot static method it can be called
 only by using interface name
+
+5. Despite having default methods still an interface with one
+abstract method is functional interface
